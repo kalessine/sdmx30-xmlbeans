@@ -16,379 +16,379 @@
 <xb:config xmlns:xb="http://xml.apache.org/xmlbeans/2004/02/xbean/config"
            xmlns:c="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common">
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.AgencyReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.AgencySchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.AnyCodelistReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.AttributeDescriptorReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CategorisationReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CategoryReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CategorySchemeMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CategorySchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CodeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CodelistReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ComponentUrnReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ConceptReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ConceptSchemeMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ConceptSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ConstraintReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CustomTypeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.CustomTypeSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataAttributeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataConstraintReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataConsumerReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataConsumerSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataProviderReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataProviderSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataStructureReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DataflowReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DatePatternMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DimensionDescriptorReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.DimensionReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.EpochMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.FrequencyFormatMappingReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.GroupDimensionDescriptorReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.HierarchicalCodeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.HierarchyAssociationReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.HierarchyReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.LevelReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MaintainableUrnReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MeasureDescriptorReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MeasureReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataAttributeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataConstraintReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataProviderReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataProviderSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataProvisionAgreementReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataSetReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataStructureReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.MetadataflowReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.NamePersonalisationReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.NamePersonalisationSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.OrganisationReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.OrganisationSchemeMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.OrganisationSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.OrganisationUnitReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.OrganisationUnitSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ProcessReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ProcessStepReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ProvisionAgreementReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ReportingCategoryReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ReportingTaxonomyMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ReportingTaxonomyReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.RepresentationMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.RulesetReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.RulesetSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.StructureMapReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.StructureOrUsageReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.StructureReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.StructureUsageReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.TimeDimensionReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.TransformationReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.TransformationSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.TransitionReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.UserDefinedOperatorReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.UserDefinedOperatorSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.ValueListReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.VtlMappingReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 <xb:extension for="org.sdmx.resources.sdmxml.schemas.v30.common.VtlMappingSchemeReferenceType">
-    <xb:interface name="mypackage.Foo">
-        <xb:staticHandler>mypackage.FooHandler</xb:staticHandler>
+    <xb:interface name="sdmx.xml.Reference">
+        <xb:staticHandler>sdmx.xml.ReferenceHandler</xb:staticHandler>
     </xb:interface>
 </xb:extension>
 </xb:config>
